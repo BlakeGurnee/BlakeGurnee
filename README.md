@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio Coming Soon](Portfolio Coming Soon)
+- 👨‍💻 All of my projects are available at (Portfolio Coming Soon)
 
-- 💬 Ask me about **Anything programming or computer related.**
+- 💬 Ask me about **Anything programming or computer-related.**
 
 - 📫 How to reach me **bgurnee70@gmail.com**
 
-- ⚡ Fun fact **I am really good at playing the Ukulele**
+- ⚡ Fun fact **I am good at playing the Ukulele**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
