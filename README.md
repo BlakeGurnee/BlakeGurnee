@@ -1,4 +1,3 @@
-[![MasterHead]([https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F05uhd2ihjs671.gif%3Fwidth%3D1920%26auto%3Dwebp%26s%3D2cfe2e79dafaccd849f4d2b7f2622ea565c748af](https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af))]
 <h1 align="center">Hi 👋, I'm Blake Gurnee</h1>
 <h3 align="center">A 14 year old boy learning how to program</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/74b1705aa2dafc4ce3d68a181769b79d28eb347c4aa8946e2997a2908a29281f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
