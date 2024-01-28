@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio Coming Soon](Portfolio Coming Soon)
+- 👨‍💻 All of my projects are available at (Portfolio Coming Soon)
 
 - 💬 Ask me about **Anything programming or computer related.**
 
