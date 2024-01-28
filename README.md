@@ -1,4 +1,9 @@
-### Hi there 👋
+[<img src="https://raw.githubusercontent.com/BlakeGurnee/BlakeGurnee/master/intro.gif" alt="👋 Hi there! I'm Blake" title="👋 Hi there! I'm Blake"/>]
+I am a 14-year-old boy learning how to code.
+I'm currently learning full-stack web development.
+I have always been interested in computers since before I was even old enough to use computers.
+I just know that is my purpose so I spent the last few months learning how to code.
+I know quite a lot right now but I can always improve my skills and learn more.
 
 <!--
 **BlakeGurnee/BlakeGurnee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
