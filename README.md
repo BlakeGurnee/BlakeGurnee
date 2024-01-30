@@ -23,7 +23,7 @@
 <a href="https://stackoverflow.com/users/blake gurnee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="blake gurnee" height="30" width="40" /></a>
 <a href="https://codesandbox.com/bgurnee70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bgurnee70" height="30" width="40" /></a>
 <a href="https://instagram.com/blakegurnee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blakegurnee" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programming pathways" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming pathways" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ProgrammingPathways" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming pathways" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bgurnee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bgurnee" height="30" width="40" /></a>
 </p>
 
