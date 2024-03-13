@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Taking The Odin Project Course**
+- 🔭 I’m currently working on **Taking The Harvard CS50**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Essential Programming Skills from the CS50 Course**
 
 - 👨‍💻 All of my projects are available at (Portfolio Coming Soon)
 
