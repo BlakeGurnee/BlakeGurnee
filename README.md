@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bgurnee70@gmail.com**
 
-- ⚡ Fun fact **I am good at playing the Ukulele**
+- ⚡ Fun fact **Pineapple on Pizza is not that bad.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
