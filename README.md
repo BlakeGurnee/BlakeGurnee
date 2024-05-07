@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Essential Programming Skills from the CS50 Course**
 
-- 👨‍💻 All of my projects are available at (Portfolio Coming Soon)
+- 👨‍💻 All of my projects are available at (Portfolio Coming Soon) and my GitHub you are viewing now.
 
 - 💬 Ask me about **Anything programming or computer-related.**
 
