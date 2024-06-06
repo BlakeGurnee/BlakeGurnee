@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## :Book: About Me
+## 📖: About Me
 - A 15-year-old learning to code
 - Freshman at Hudsonville High School
 
