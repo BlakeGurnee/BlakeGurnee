@@ -17,13 +17,13 @@
 - Taking The Harvard CS50 Course
 ```
 
-- 🌱 I’m currently learning **Essential Programming Skills from the CS50 Course**
+- 🌱 I’m currently learning **Programming Skills from the CS50 Course**
 
 - 👨‍💻 All of my projects are available at (Portfolio Coming Soon) and my GitHub you are viewing now.
 
 - 📫 How to reach me **bgurnee70@gmail.com**
 
-- ⚡ Fun fact **Pineapple on Pizza is not that bad.**
+- ⚡ Fun fact **None at the moment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
