@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## :book: About Me
-🚀 Freshman at High School | Aspiring Developer
-💻 Passionate about: Programming, Robotics, and Computer Science
-🌱 Always Learning: New ways to code and innovate
+- 🚀 Freshman at High School | Aspiring Developer
+- 💻 Passionate about: Programming, Robotics, and Computer Science
+- 🌱 Always Learning: New ways to code and innovate
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
