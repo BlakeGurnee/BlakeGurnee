@@ -10,12 +10,12 @@
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-- 🔨 Focused on excelling in my Business Tech class and enhancing my coding skills
-- 🌱 Learning HTML/CSS for web development and Python for automation
+- 🔨 Focused on excelling in my robotics team and enhancing my coding skills
+- 🌱 Learning C++ for robotics programming
 
-- 🌱 I’m currently learning **Useful skills from my Bussiness Tech Class**
+- 🌱 I’m currently learning **Useful skills from Robotics**
 
-- 👨‍💻 All of my projects are available at (Portfolio Coming Soon) and my GitHub you are viewing now.
+- 👨‍💻 All of my projects are available on my GitHub, which you are viewing now.
 
 - 📫 How to reach me **bgurnee70@gmail.com**
 
