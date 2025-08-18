@@ -12,7 +12,7 @@
 
 <br clear="right"/> <!-- stops the float so the image won't interfere anymore -->
 
----
+
 
 ## ⬆ What I'm Up To
 - 🔨 Focused on excelling in my robotics team and enhancing my coding skills  
