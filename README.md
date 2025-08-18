@@ -2,7 +2,7 @@
 <h3 align="center">A passionate 15-year-old exploring the world of code</h3>
 
 
-<img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 100px;" src="https://miro.medium.com/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://miro.medium.com/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 ## 📖 About Me
 - 🚀 Freshman in high school with a passion for coding and robotics  
