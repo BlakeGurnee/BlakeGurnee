@@ -12,7 +12,7 @@
 - 💻 Eager to explore new technologies and solve real-world problems  
 - 🌱 Always learning and experimenting with new programming languages  
 
----
+
 
 ## ⬆ What I'm Up To
 - 🔨 Focused on excelling in my robotics team and enhancing my coding skills  
@@ -21,7 +21,6 @@
 - 📫 Reach me at **bgurnee70@gmail.com**  
 - ⚡ Fun fact: *Still looking for one 😉*  
 
----
 
 ## 🌐 Connect With Me
 <p align="left">
