@@ -61,6 +61,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blakegurnee&" alt="blakegurnee" />
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</p>
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Dino Animation" />
