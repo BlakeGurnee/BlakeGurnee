@@ -8,9 +8,9 @@
 - 💻 Eager to explore new technologies and solve real-world problems  
 - 🌱 Always learning and experimenting with new programming languages  
 
-<br clear="right"/> <!-- clears float so the next line appears under the gif -->
+<br clear="right"/> <!-- Clears gif float so next section doesn't overlap -->
 
----
+<hr/>
 
 ## ⬆ What I'm Up To
 - 🔨 Focused on excelling in my robotics team and enhancing my coding skills  
@@ -19,7 +19,9 @@
 - 📫 Reach me at **bgurnee70@gmail.com**  
 - ⚡ Fun fact: *Still looking for one 😉*  
 
----
+<br clear="right"/>
+
+<hr/>
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -37,7 +39,7 @@
 </a>
 </p>
 
----
+<hr/>
 
 ## 🛠 Languages & Tools
 **Programming Languages**  
@@ -64,32 +66,32 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </a>
 
----
+<hr/>
 
 ## 🌟 Personal Motto
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
 
----
+<hr/>
 
 ## 📊 GitHub Stats
 <div align="center">
 
-  <!-- Biggest: Overall Stats -->
+  <!-- Biggest -->
   <img src="https://github-readme-stats.vercel.app/api?username=blakegurnee&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
 
   <br/><br/>
 
-  <!-- Medium: Streak -->
+  <!-- Medium -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegurnee" alt="GitHub Streak" height="160"/>
 
   <br/><br/>
 
-  <!-- Smallest: Top Languages -->
+  <!-- Smallest -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blakegurnee&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="140"/>
 
 </div>
 
----
+<hr/>
 
 <p align="center">
   <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="Dino Animation" />
