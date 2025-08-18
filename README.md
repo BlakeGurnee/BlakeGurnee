@@ -2,7 +2,9 @@
 <h3 align="center">A passionate 15-year-old exploring the world of code</h3>
 
 <p>
-  <img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://miro.medium.com/1*ZSVmWGcc1weENb0ShawWxw.gif" />
+  <img align="right" alt="Coding" width="350" 
+       style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;" 
+       src="https://miro.medium.com/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 </p>
 
 ## 📖 About Me
@@ -10,9 +12,7 @@
 - 💻 Eager to explore new technologies and solve real-world problems  
 - 🌱 Always learning and experimenting with new programming languages  
 
-<br clear="right"/> <!-- stops the float so the image won't interfere anymore -->
-
-
+---
 
 ## ⬆ What I'm Up To
 - 🔨 Focused on excelling in my robotics team and enhancing my coding skills  
