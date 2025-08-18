@@ -3,14 +3,12 @@
 
 <img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://miro.medium.com/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
-<br clear="right"/> <!-- Fixes overlap so sections start below the gif -->
-
----
-
 ## 📖 About Me
 - 🚀 Freshman in high school with a passion for coding and robotics  
 - 💻 Eager to explore new technologies and solve real-world problems  
 - 🌱 Always learning and experimenting with new programming languages  
+
+<br clear="right"/> <!-- clears float so the next line appears under the gif -->
 
 ---
 
@@ -76,15 +74,18 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blakegurnee&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
-  
-  <br/>
+  <!-- Biggest: Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=blakegurnee&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=blakegurnee&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+  <br/><br/>
 
-  <br/>
+  <!-- Medium: Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegurnee" alt="GitHub Streak" height="160"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegurnee" alt="GitHub Streak" height="150"/>
+  <br/><br/>
+
+  <!-- Smallest: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blakegurnee&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="140"/>
 
 </div>
 
