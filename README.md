@@ -2,7 +2,7 @@
 <h3 align="center">A passionate 15-year-old exploring the world of code</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=blakegurnee&label=Profile%20views&color=0e75b6&style=flat" alt="blakegurnee" /> 
+  <img src="https://miro.medium.com/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="coding" /> 
 </p>
 
 ---
