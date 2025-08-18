@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://miro.medium.com/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
+<br clear="right"/> <!-- Fixes overlap so sections start below the gif -->
+
 ---
 
 ## 📖 About Me
@@ -72,17 +74,19 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blakegurnee&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blakegurnee&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blakegurnee&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
+  
+  <br/>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blakegurnee" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=blakegurnee&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakegurnee" alt="GitHub Streak" height="150"/>
+
+</div>
 
 ---
 
