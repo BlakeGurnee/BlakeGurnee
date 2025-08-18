@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Blake</h1>
 <h3 align="center">A passionate 15-year-old exploring the world of code</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/74b1705aa2dafc4ce3d68a181769b79d28eb347c4aa8946e2997a2908a29281f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966](https://github.com/teguhaugani/teguhaugani](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnavigating-coding-labyrinth-nisha-chandran-r2zyc&psig=AOvVaw0tu4JczGRDa5MVO30E8pev&ust=1755632445105000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCM89OOlY8DFQAAAAAdAAAAABBe)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/74b1705aa2dafc4ce3d68a181769b79d28eb347c4aa8946e2997a2908a29281f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966](https://github.com/teguhaugani/teguhaugani](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnavigating-coding-labyrinth-nisha-chandran-r2zyc&psig=AOvVaw0tu4JczGRDa5MVO30E8pev&ust=1755632445105000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCM89OOlY8DFQAAAAAdAAAAABBe">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blakegurnee&label=Profile%20views&color=0e75b6&style=flat" alt="blakegurnee" /> </p>
 
 ## :book: About Me
