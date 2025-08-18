@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Blake</h1>
 <h3 align="center">A passionate 15-year-old exploring the world of code</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40albertcavalcante%2Fhow-to-reach-developer-experience-supreme-level-part-two-suffering-because-of-bad-dx-da4e505b26f2&psig=AOvVaw0tu4JczGRDa5MVO30E8pev&ust=1755632445105000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqGAoTCNCM89OOlY8DFQAAAAAdAAAAABCQAQ">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=blakegurnee&label=Profile%20views&color=0e75b6&style=flat" alt="blakegurnee" /> 
