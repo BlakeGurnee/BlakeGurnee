@@ -8,7 +8,7 @@
 </p>
 
 ## 📖 About Me
-- 🚀 Freshman in high school with a passion for coding and robotics  
+- 🚀 Sophomore in high school with a passion for coding and robotics  
 - 💻 Eager to explore new technologies and solve real-world problems  
 - 🌱 Always learning and experimenting with new programming languages  
 
