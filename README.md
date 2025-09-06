@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Blake</h1>
-<h3 align="center">A passionate 15-year-old exploring the world of code</h3>
+<h3 align="center">A passionate 16-year-old exploring the world of code</h3>
 
 <p>
   <img align="right" alt="Coding" width="350" 
