@@ -30,7 +30,7 @@
 <a href="https://codesandbox.io/u/bgurnee70" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
 </a>
-<a href="https://instagram.com/blakegurnee" target="_blank">
+<a href="https://instagram.com/blake.gurnee" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/bgurnee" target="_blank">
